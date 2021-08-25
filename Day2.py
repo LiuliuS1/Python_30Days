@@ -38,7 +38,7 @@ def display_table():#[1,6)
         print(i ,(i)**0, (i)**1, (i)**2, (i)**3)
 
 #display_table()
-
+#
 
 s = "I am enjoying this challenge\". \t I just wonder what is next."
 print(s)
